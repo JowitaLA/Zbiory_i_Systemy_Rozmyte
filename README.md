@@ -1,5 +1,5 @@
 # Zbiory i Systemy Rozmyte: Treść Zadań
-### Jowita Kruk, 339351
+## Jowita Kruk, 339351
 
 ### Zadanie 1. 
 Stwórz klasę nadrzędną reprezentującą ogólny zbiór rozmyty oraz trzy klasy podrzędne odpowiadające zbiorom trójkątnym, trapezowym oraz gaussowskim.
