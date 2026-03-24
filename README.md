@@ -16,3 +16,6 @@ Celem zadania jest przeanalizowanie prezentacji oraz uzupełnienie niedokończon
 
 ### Zadanie 4.
 Korzystając z biblioteki FuzzLib zrób na nowo Zadanie 2.
+
+### Zadanie 5.
+Korzystając z biblioteki FuzzLib zaimplementuj logikę kontrolera sterowania wentylatorem. Kontroler powinien zawierać przynajmniej sterowanie chłodzeniem i nawiewem.
