@@ -18,4 +18,6 @@ Celem zadania jest przeanalizowanie prezentacji oraz uzupełnienie niedokończon
 Korzystając z biblioteki FuzzLib zrób na nowo Zadanie 2.
 
 ### Zadanie 5.
-Korzystając z biblioteki FuzzLib zaimplementuj logikę kontrolera sterowania wentylatorem. Kontroler powinien zawierać przynajmniej sterowanie chłodzeniem i nawiewem.
+Korzystając z biblioteki FuzzLib zaimplementuj logikę automatycznego kontrolera sterowania wentylatorem (bądź innego kontrolera, który będzie zawierać przynajmniej dwie klasy). Kontroler powinien zawierać przynajmniej sterowanie chłodzeniem i nawiewem.
+*Przykładowa gra: https://www.youtube.com/watch?v=3xfAN0dXzck*
+
