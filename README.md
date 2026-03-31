@@ -21,3 +21,5 @@ Korzystając z biblioteki FuzzLib zrób na nowo Zadanie 2.
 Korzystając z biblioteki FuzzLib zaimplementuj logikę automatycznego kontrolera sterowania wentylatorem (bądź innego kontrolera, który będzie zawierać przynajmniej dwie klasy). Kontroler powinien zawierać przynajmniej sterowanie chłodzeniem i nawiewem.
 *Przykładowa gra: https://www.youtube.com/watch?v=3xfAN0dXzck*
 
+### Zadanie 6.
+Na podstawie `ReasoningSystemTest.java` zrób na nowo Zadanie 5 kodzystając z biblioteki FuzzLib.
