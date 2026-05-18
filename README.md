@@ -22,4 +22,4 @@ Korzystając z biblioteki FuzzLib zaimplementuj logikę automatycznego kontroler
 *Przykładowa gra: https://www.youtube.com/watch?v=3xfAN0dXzck*
 
 ### Zadanie 6.
-Na podstawie `ReasoningSystemTest.java` zrób na nowo Zadanie 5 kodzystając z biblioteki FuzzLib.
+Na podstawie `ReasoningSystemTest.java` zrób na nowo Zadanie 5 korzystając z biblioteki FuzzLib.
